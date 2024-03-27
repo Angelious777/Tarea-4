@@ -1,0 +1,26 @@
+.permanent-marker-regular {
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.fjalla-one-regular {
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#carouselExampleAutoplaying{
+    width: 80%;
+    
+}
+
+.posicion-carrusel{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.posicion-carrusel img{
+    height: 280px;
+}
