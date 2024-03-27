@@ -1,10 +1,20 @@
 section{
     padding-block: 30px;
     background-color: #C9AE87;
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    height: 100vh;
 }
 
 .section2{
     padding-left: 40px;
+}
+
+.section3{
+    padding-inline: 30px;
 }
 
 .navbar-custom {
